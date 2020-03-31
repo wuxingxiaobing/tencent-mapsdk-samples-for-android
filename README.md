@@ -1,5 +1,5 @@
 # tencent-mapsdk-samples-for-android
-腾讯位置服务示例中心 text
+腾讯位置服务示例中心 
 
 ## 设置 key
 用户可以在 demo 的清单文件中定义
